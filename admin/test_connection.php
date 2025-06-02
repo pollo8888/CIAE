@@ -12,7 +12,7 @@ if (!$data) {
 
 // Intentar ejecutar el script de Python con los parámetros recibidos
 $python = "C:\\Users\\Soporte\\AppData\\Local\\Programs\\Python\\Python39\\python.exe";
-$script = "C:\\xampp\\htdocs\\admin\\verificar_sql.py";
+$script = "C:\\xampp\\htdocs\\CIAE\\admin\\verificar_sql.py";
 
 // Si tienes un script específico para probar conexión con credenciales, úsalo
 // Por ahora, intentamos con el IP

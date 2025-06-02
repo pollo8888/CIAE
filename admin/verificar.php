@@ -41,7 +41,7 @@ $conn->close();
 
 // Ruta del ejecutable de Python y el script
 $python = "C:\\Users\\Soporte\\AppData\\Local\\Programs\\Python\\Python39\\python.exe";
-$script = "C:\\xampp\\htdocs\\admin\\verificar_sql.py";
+$script = "C:\\xampp\\htdocs\\CIAE\\admin\\verificar_sql.py";
 
 $resultados = [];
 
